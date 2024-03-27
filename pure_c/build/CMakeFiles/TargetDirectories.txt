@@ -1,0 +1,3 @@
+C:/Users/ChenG/ALL_DATA/github/cpp_learning/pure_c/build/CMakeFiles/atest.dir
+C:/Users/ChenG/ALL_DATA/github/cpp_learning/pure_c/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ChenG/ALL_DATA/github/cpp_learning/pure_c/build/CMakeFiles/ZERO_CHECK.dir
